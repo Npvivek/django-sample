@@ -1,2 +1,1 @@
-# django-sample
-A basic django app.
+#Backend template of Python + Django framework
